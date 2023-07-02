@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-<!--
+Du hast Spaß am Programmieren 🥰 (oder willst programmieren lernen) und möchtest zum Beispiel Dein eigenes Game 👾 entwickeln? Dann ist die Fachoberschule an der Max-Eyth-Schule in Kassel mit dem Schwerpunkt Informationstechnik vielleicht genau das Richtige für Dich!💯 
 
-**Here are some ideas to get you started:**
+Hier lernst Du nicht nur die Grundlagen der Informatik, sondern auch, wie du mit Java FX spannende und interaktive Projekte umsetzen kannst. SQL für Datenbanken und Netzwerktechnik! Bewirb dich jetzt und starte deine Karriere als Informatiker an der MES in Kassel mit der Fachoberschule! 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Ich bin IT-Lehrer an der Max-Eyth-Schule und freue mich, Dich bei Deinen Projekten zu unterstützen. 
+Aber Achtung ⚠ denn einfach wird es nicht. Du wirst Java & SQl lernen müssen! Du solltest Mathe 💘 lieben! 
+
+Es grüßt Dich
+Herr Schwaiger
